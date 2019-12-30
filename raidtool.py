@@ -1,6 +1,6 @@
 from G8RNG import XOROSHIRO,Raid
 
-PID = 0x9c86F7F8
+PID = 0x9c86F8F9
 EC = 0x9dffc477
 IVs = [14,31,31,31,10,24]
 usefilters = True
